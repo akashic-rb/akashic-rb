@@ -8,4 +8,4 @@
 [![](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel&logoColor=ffffff)](https://laravel.com/)
 [![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=ffffff)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
