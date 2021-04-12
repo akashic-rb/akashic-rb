@@ -1,4 +1,4 @@
-[comment]: <>([![](https://count.getloli.com/get/@akashic?theme=rule34)](https://count.getloli.com))
+[comment]:#([![](https://count.getloli.com/get/@akashic?theme=rule34)](https://count.getloli.com))
 
 #### Platforms & Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
