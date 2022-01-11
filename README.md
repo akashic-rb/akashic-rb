@@ -10,4 +10,5 @@
 [![](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
 [![](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/React-292e33?style=flat-square&logo=react&logoColor=61dbfb)](https://reactjs.org/)
+[![](https://img.shields.io/badge/Javascript-323330?style=flat-square&logo=javascript&logoColor=f0db4f)](https://javascript.com/)
 [![](https://img.shields.io/badge/Rust-bebebe?style=flat-square&logo=rust&logoColor=281C1C)](https://www.rust-lang.org/)
