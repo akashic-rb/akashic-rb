@@ -1,5 +1,12 @@
 [![](https://count.getloli.com/get/@akashic?theme=rule34)](https://count.getloli.com)
 
+<a href="https://github.com/nguyenlechibao-py">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenlechibao-py&theme=tokyonight&hide=scss,vue&langs_count=3" />
+</a>
+<a href="https://github.com/nguyenlechibao-py">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyenlechibao-py&theme=tokyonight&show_icons=true&line_height=27" alt="" />
+</a>
+  
 #### Platforms & Tools
 [![](https://img.shields.io/badge/macOS-retina-292e33?style=flat-square&logo=apple&logoColor=ffffff&logoColor=ffffff)](https://www.apple.com/imac-27/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
