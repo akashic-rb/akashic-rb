@@ -1,7 +1,7 @@
 [![](https://count.getloli.com/get/@akashic?theme=rule34)](https://count.getloli.com)
 
 <a href="https://github.com/akashic-rb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashic-rb&theme=tokyonight&hide=scss,vue&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashic-rb&theme=tokyonight&langs_count=3" />
 </a>
 <a href="https://github.com/akashic-rb">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashic-rb&theme=tokyonight&show_icons=true&line_height=27" alt="" />
